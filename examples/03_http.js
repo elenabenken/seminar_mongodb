@@ -6,4 +6,4 @@ function (request, response) {
   response.end( "Наш сайт");
 });
 server.listen(8000);
-console.log("Сервер работает на http://127.0.0.1:8000/");
+console.log("Сервер на http://127.0.0.1:8000/");
