@@ -11,5 +11,5 @@ MongoClient.connect(
         console.dir(doc);
         db.close();
     });
-    console.dir("Вызван еще одна строка findOne!");
+    console.dir("Вызван строка findOne!");
 });
