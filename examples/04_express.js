@@ -1,8 +1,8 @@
-var express = require('express'),
+rvar express = require('express'),
     app = express();
 
 app.get('/', function(req, res){
-    res.send('Привет всем');
+    res.send('Привет express');
 });
 
 app.get('*', function(req, res){
