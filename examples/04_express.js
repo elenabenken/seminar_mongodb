@@ -10,5 +10,5 @@ app.get('*', function(req, res){
 });
 
 app.listen(8000);
-console.log('Express server started on port 8000');
+console.log('Express server started 8000');
 
