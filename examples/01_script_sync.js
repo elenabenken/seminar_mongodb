@@ -1,4 +1,4 @@
-var doc = db.products.findOne("");
+var doc = db.products.findOne("аааее");
 printjson(doc);
 ;
 ;
