@@ -6,4 +6,4 @@ function (request, response) {
   response.end( "Это сайт");
 });
 server.listen(8000);
-console.log("Сервер на http://localhost/");
+console.log("Сервер новый текст на http://localhost/");
