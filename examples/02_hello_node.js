@@ -1,1 +1,1 @@
-console.log('Привет vhhghhjjjjvvvbv!');
+console.log('Привет world!');
